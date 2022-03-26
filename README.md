@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://github.com/vitox013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" width="480" src="https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="506" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
 
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.discordapp.com/attachments/845013211555692546/957193291739320330/c-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.discordapp.com/attachments/845013211555692546/957193291739320330/c-original.svg">
  
 </div>
   
