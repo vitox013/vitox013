@@ -1,11 +1,11 @@
-## Bem-vindo ao meu perfil!
+  ## Oi, eu sou o Vitor Müller, estudante de Sistemas de Informação!
 
 
-- 🌱 Atualmente estou estudando a linguagem C
+                                        
 
 <div align="center">
   <a href="https://github.com/vitox013">
-  <img align="center" height="170em" width="1000"src="https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="start" height="170em" width="1000"src="https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="center" height="170em" width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
