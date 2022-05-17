@@ -8,11 +8,8 @@
 </div>
 
 <!--Estatísticas-->
-<div align = "center">  
-  <a href="https://github.com/vitox013">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&langs_count=7&theme=radical"/> 
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical&hide_title=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--Badges das linguagens que eu uso-->
 <h2 align = "center">Languages and Tools<h2>
