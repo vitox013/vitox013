@@ -8,7 +8,7 @@
 </div>
 
 <!--Estatísticas-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical&hide_title=true&hide_rank=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--Badges das linguagens que eu uso-->
