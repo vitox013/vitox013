@@ -6,13 +6,6 @@
   <a href = "mailto:vitormuller013@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-müller" target="_blank" rel = "external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-<!--Estatísticas-->
-<div align = "center">  
-  <a href="https://github.com/vitox013">
-  <img height="140em" width="350em" src="https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&theme=radical"/> 
-</div>
   
 <!--Badges das linguagens que eu uso-->
 <h2 align = "center">Languages and Tools<h2>
