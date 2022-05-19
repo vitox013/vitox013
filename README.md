@@ -1,5 +1,6 @@
 <!-- Apresentação-->
-<h1 align = "center">Hi there, I'm Vitor Müller!<h1>
+<h1 align = "center">Hi there, I'm Vitor Müller! <img src="https://user-images.githubusercontent.com/85710199/169408656-5873ce35-802d-4dc9-8e30-5f18643ebfca.gif" width="30px">
+<h1>
  
 <!--Contato-->
 <div align = "center"> 
@@ -15,7 +16,7 @@
 </div>
   
 <!--Badges das linguagens que eu uso-->
-<h2 align = "center">Languages and Tools<h2>
+<h2 align = "center">Languages and Tools <h2> 
    
 <p align = "center" style="display: inline_block">    
   <img align="top"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -30,6 +31,6 @@
  <!--Snake-->
 <div align = "center">
   
-  ![Snake animation](https://github.com/vitox013/vitox013/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vitox013/vitox013/blob/output/github-contribution-grid-snake.svg)
   
 </div>
