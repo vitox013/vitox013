@@ -1,5 +1,5 @@
 <!-- Apresentação-->
-<h1 align = "center">Hi there, I'm Vitor Müller! <img src="https://user-images.githubusercontent.com/85710199/169408656-5873ce35-802d-4dc9-8e30-5f18643ebfca.gif" width="30px">
+<h1 align = "center">Hi there, I'm Vitor Müller! <img src="https://user-images.githubusercontent.com/85710199/169408656-5873ce35-802d-4dc9-8e30-5f18643ebfca.gif" width="30px" height="30px">
 <h1>
  
 <!--Contato-->
