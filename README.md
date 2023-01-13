@@ -11,8 +11,8 @@
  <!--Estatísticas-->
 <div align = "center">  
   <a href="https://github.com/vitox013">
-  <img height="140em" width="350em" src="https://github-readme-stats.vercel.app/api?username=vitox013&show_icons=true&theme=radical"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&theme=radical"/> 
+  <img height="140em" width="350em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitox013&show_icons=true&theme=radical&"/>
+  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitox013&layout=compact&theme=radical"/> 
 </div>
   
 <!--Badges das linguagens que eu uso-->
