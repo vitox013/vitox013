@@ -11,10 +11,10 @@
  <!--Estatísticas-->
 <div align = "center">  
   <a href="https://github.com/vitox013">
-  <img height="140em" width="350em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=vitox013&show_icons=true&theme=radical&"/>
-  <img height="140em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=vitox013&layout=compact&theme=radical"/> 
+  <img height="140em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&theme=merko"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitox013&layout=compact&theme=merko"/> 
 </div>
-  
+ 
 <!--Badges das linguagens que eu uso-->
 <h2 align = "center">Languages and Tools <h2> 
    
