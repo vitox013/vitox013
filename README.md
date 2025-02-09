@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LAPTI](https://lapti.ct.utfpr.edu.br/)
 
-- 🌱 I’m currently learning **Docker, TypeScript, Next.js,Tailwind**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://vitox013.github.io/portfolio/](https://vitox013.github.io/portfolio/)
 
